@@ -1,0 +1,11 @@
+customer_id,name,email,signup_date,company,region,status
+C001,Acme Corp,contact@acme.com,2023-01-15,Acme Industries,North America,Active
+C002,TechStart Inc,info@techstart.com,2023-02-20,TechStart,Europe,Active
+C003,Global Solutions,hello@globalsol.com,2023-03-10,Global Solutions,Asia,Active
+C004,Enterprise X,sales@entx.com,2023-04-05,Enterprise X,North America,Active
+C005,DataViz LLC,contact@dataviz.com,2023-05-12,DataViz,Europe,Inactive
+C006,CloudSync Corp,support@cloudsync.com,2023-06-08,CloudSync,Asia,Active
+C007,InnovateTech,hello@innovate.com,2023-07-14,InnovateTech,North America,Active
+C008,FutureAI Inc,contact@futureai.com,2023-08-22,FutureAI,Europe,Active
+C009,DataFlow Systems,info@dataflow.com,2023-09-11,DataFlow,Asia,Active
+C010,SmartAnalytics,sales@smartanalytics.com,2023-10-05,SmartAnalytics,North America,Active
